@@ -1,4 +1,5 @@
 🎬 Netflix India Landing Page Clone
+
 This project is a static recreation of the Netflix India landing page using basic web development technologies.
 
 ✨ Features
